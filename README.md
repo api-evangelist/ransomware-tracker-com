@@ -1,4 +1,4 @@
-# ransomware-tracker-com
+# Dragons Eye Ransomware Tracker
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ransomware-tracker-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ransomware-tracker.com/
+Dragons Eye Ransomware Tracker is a public cyber threat intelligence workspace that aggregates unverified ransomware victim claims from documented public feeds. It provides live monitoring, statistics, and trend analysis for defenders, researchers, and SOC analysts, supporting research and educational use while prohibiting interaction with threat groups.
+
+**Areas:** ransomware · threat-intelligence · cyber-security · public-data · analytics · Company
+
+## Dragons Eye Ransomware Tracker on APIs.io
+
+Everything profiled for Dragons Eye Ransomware Tracker is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ransomware-tracker-com/](https://apis.io/providers/ransomware-tracker-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Dragons Eye Ransomware Tracker Batch API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-batch-api/) — The Batch API from Dragons Eye Ransomware Tracker — 1 operation(s) for batch.
+- [Dragons Eye Ransomware Tracker Bulk Check API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-bulk-check-api/) — The Bulk Check API from Dragons Eye Ransomware Tracker — 1 operation(s) for bulk check.
+- [Dragons Eye Ransomware Tracker Cve API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-cve-api/) — The Cve API from Dragons Eye Ransomware Tracker — 1 operation(s) for cve.
+- [Dragons Eye Ransomware Tracker Cve Batch API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-cve-batch-api/) — The Cve Batch API from Dragons Eye Ransomware Tracker — 1 operation(s) for cve batch.
+- [Dragons Eye Ransomware Tracker Group API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-group-api/) — The Group API from Dragons Eye Ransomware Tracker — 1 operation(s) for group.
+- [Dragons Eye Ransomware Tracker Group Intel API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-group-intel-api/) — The Group Intel API from Dragons Eye Ransomware Tracker — 1 operation(s) for group intel.
+- [Dragons Eye Ransomware Tracker Indicator Batch API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-indicator-batch-api/) — The Indicator Batch API from Dragons Eye Ransomware Tracker — 1 operation(s) for indicator batch.
+- [Dragons Eye Ransomware Tracker Indicator Check API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-indicator-check-api/) — The Indicator Check API from Dragons Eye Ransomware Tracker — 1 operation(s) for indicator check.
+- [Dragons Eye Ransomware Tracker Lookup API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-lookup-api/) — The Lookup API from Dragons Eye Ransomware Tracker — 1 operation(s) for lookup.
+- [Dragons Eye Ransomware Tracker Recent API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-recent-api/) — The Recent API from Dragons Eye Ransomware Tracker — 1 operation(s) for recent.
+- [Dragons Eye Ransomware Tracker Vendor Report API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-vendor-report-api/) — The Vendor Report API from Dragons Eye Ransomware Tracker — 1 operation(s) for vendor report.
+- [Dragons Eye Ransomware Tracker Watch API](https://apis.io/apis/ransomware-tracker-com/ransomware-tracker-com-watch-api/) — The Watch API from Dragons Eye Ransomware Tracker — 1 operation(s) for watch.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Dragons Eye Ransomware Tracker Agentic Access](https://apis.io/agentic-access/ransomware-tracker-com/ransomware-tracker-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Dragons Eye Ransomware Tracker API Rules](https://apis.io/rules/ransomware-tracker-com/ransomware-tracker-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dragons Eye Ransomware Tracker Domain Security](https://apis.io/security/ransomware-tracker-com/ransomware-tracker-com-domain-security/)
+- [Dragons Eye Ransomware Tracker Vulnerability Disclosure](https://apis.io/security/ransomware-tracker-com/ransomware-tracker-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ransomware-tracker.com/)
+- [Documentation](https://ransomware-tracker.com/methodology)
+- [Getting started](https://ransomware-tracker.com/start)
+- [API reference](https://api.ransomware-tracker.com/mcp)
+- [Terms of service](https://ransomware-tracker.com/terms)
+- [Privacy policy](https://ransomware-tracker.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 39.3** — developing · rubric 0.27.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 46.5 |
+| Contract governance | 65.5 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 31.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ransomware-tracker-com/](https://apis.io/providers/ransomware-tracker-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dragons Eye Ransomware Tracker: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ransomware-tracker-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
